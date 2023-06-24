@@ -1,4 +1,6 @@
 # cohere-for-unity
+Preparation:
+Create an account from here: https://cohere.com/ and get the API trial key. 
 
 Step 1: Download SimpleJSON and drop it into Unity.
 Link: https://github.com/Bunny83/SimpleJSON
